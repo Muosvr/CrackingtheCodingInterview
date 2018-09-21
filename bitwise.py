@@ -21,3 +21,7 @@ print "Line 5 - Value of c is ", c
 
 c = a >> 2;       # 15 = 0000 1111
 print "Line 6 - Value of c is ", c
+
+print "~0: ", ~0
+
+print "3>>2: ", 16>>2
